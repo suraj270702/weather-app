@@ -230,7 +230,7 @@ const WeatherPage = () => {
             <div className="mt-10 bg-card-bg w-full rounded-lg p-5">
               <div>
                 <h1 className="text-gray-600 text-[20px] md:30px font-medium">
-                  Today's Forecast
+                  Today&apos;s Forecast
                 </h1>
                 <div className="grid grid-cols-2 gap-x-5 gap-y-5 md:grid-cols-4 lg:grid-cols-6 mt-5">
                   {weatherForecastData &&
